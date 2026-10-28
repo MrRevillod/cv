@@ -90,8 +90,8 @@
     heading: "Technologies & Tools",
     groups: (
       languages: (
-        label: "Programming languages:",
-        items: ([Rust], [TypeScript], [Python]),
+        label: "Languages & Runtimes:",
+        items: ([Rust], [TypeScript], [Python], [Node.js], [Bun]),
       ),
       frameworks: (
         label: "Frameworks & Libraries:",
